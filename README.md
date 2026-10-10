@@ -12,5 +12,6 @@ measure sound, in software and in hardware.
 | Project | What it is |
 |---|---|
 | [SpectralDissector-VCV](https://github.com/Xiehuo0624/SpectralDissector-VCV) | 10-band spectral dissector for VCV Rack — C++, GPL-3.0 |
+| [PageKeyMapper](https://github.com/Xiehuo0624/PageKeyMapper) | macOS menu-bar utility that remaps Page Up/Down globally — Swift, MIT |
 
 <sub>Best reached via [caohaoxuan.com](https://caohaoxuan.com)</sub>
